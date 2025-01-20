@@ -21,9 +21,9 @@ To get started, follow these steps:
    git clone https://github.com/your-username/sales-data-analysis.git
    cd sales-data-analysis
    ```
-2. Install the required Python libraries:
+2. Install the required Python libraries manually:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas matplotlib
    ```
 3. Launch Jupyter Notebook:
    ```bash
